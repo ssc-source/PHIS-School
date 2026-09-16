@@ -10,56 +10,56 @@ const videoList = [
     title: 'Science Expo & Innovation Fair',
     category: 'Academics & STEM',
     thumbnail: '/PHIS/gallery/34789627_2063065620623207_5911851530360717312_n.jpg',
-    videoSrc: '/PHIS/videos/science-expo-1.mp4',
+    videoSrc: '/PHIS/videos/instagram_1789583796404(720p).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
     title: 'Science Project Demonstration',
     category: 'STEM Exhibits',
     thumbnail: '/PHIS/gallery/34811866_2063064630623306_6640622246865928192_n.jpg',
-    videoSrc: '/PHIS/videos/science-expo-2.mp4',
+    videoSrc: '/PHIS/videos/Instagram.mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
     title: 'Robotics & Working Models',
     category: 'Innovation Fair',
     thumbnail: '/PHIS/gallery/35070783_2063066203956482_181647962382794752_n.jpg',
-    videoSrc: '/PHIS/videos/science-expo-3.mp4',
+    videoSrc: '/PHIS/videos/Instagram(1).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
-    title: 'Junior Scientific Showcase',
-    category: 'Student Projects',
+    title: 'Saturday half class Activity',
+    category: 'Extra Activities',
     thumbnail: '/PHIS/gallery/48425010_2202095403386894_3893730656638730240_n.jpg',
-    videoSrc: '/PHIS/videos/science-expo-4.mp4',
+    videoSrc: '/PHIS/videos/Pragya_heritage_international_school___#school_Extra_Activities__#_Saturday_half_class_Activity___Instagram(360p).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
-    title: 'Annual Sports Day Athletics',
+    title: 'School football Saturday Half day activities',
     category: 'Sports & Fitness',
     thumbnail: '/PHIS/gallery/41395055_2145129919083443_528795712058556416_n.jpg',
-    videoSrc: '/PHIS/videos/sports-activities.mp4',
+    videoSrc: '/PHIS/videos/Pragya_heritage_international_school___#schoolfootball_Saturday__Half_day_activities___Instagram(480p).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
     title: 'Campus Library & Resource Tour',
     category: 'Facilities',
     thumbnail: '/PHIS/gallery/48412506_2202095776720190_8285816015128887296_n.jpg',
-    videoSrc: '/PHIS/videos/library.mp4',
+    videoSrc: '/PHIS/videos/Pragya_heritage_international_school___#schoollibrary__Nothing_is_pleasanter_than_exploring_a_library📚📚___Instagram(480p).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
     title: 'Cultural Garba & Folk Dance',
     category: 'Cultural Celebrations',
     thumbnail: '/PHIS/gallery/50592065_2222045048058596_1139053716633026560_n.jpg',
-    videoSrc: '/PHIS/videos/garba-dance.mp4',
+    videoSrc: '/PHIS/videos/Pragya_heritage_international_school___Garba_dance_of_class__7th___10th_girls_Happy_Navratri._#garbaqueen___Instagram(360p).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   },
   {
-    title: 'Annual Function & Prize Giving',
+    title: 'Happy mother_s day',
     category: 'School Events',
     thumbnail: '/PHIS/gallery/50745292_2222045408058560_6786571450401685504_n.jpg',
-    videoSrc: '/PHIS/videos/annual-function.mp4',
+    videoSrc: '/PHIS/videos/Pragya_heritage_international_school___Happy_mother_s_day_to_all_mother_s__#pragyaheritageinternationalschool___Instagram(360p).mp4',
     instagramUrl: 'https://www.instagram.com/_pragya_heritage_/'
   }
 ];

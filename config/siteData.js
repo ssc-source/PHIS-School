@@ -12,7 +12,7 @@ export const siteConfig = {
   logo: "/images/logo/pragya-logo.png",
   logoWhite: "/images/logo/pragya-logo-white.png",
   contact: {
-    phone: "+91 7461863132",
+    phone: "+91 7903132965",
     altPhone: "094712 75812",
     email: "pragyaschool2017@gmail.com",
     admissionsEmail: "pragyaschool2017@gmail.com",

@@ -3,7 +3,7 @@
 import { MessageCircle } from 'lucide-react';
 
 export function FloatingSocial() {
-  const whatsappNumber = '917070595453'; // Format: country code + number (+91 7070595453)
+  const whatsappNumber = '917903132965'; // Format: country code + number (+91 7903132965)
   const whatsappMessage = 'Hello, I would like to know more about Pragya Heritage International School (PHIS), Purnia.';
   
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
