@@ -99,7 +99,7 @@ export default function AdmissionPage() {
             {/* Admission Helpline & Email Banner */}
             <div className="mt-6 pt-6 border-t border-blue-200 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-700">
               <div>
-                <strong>Admissions Helpline:</strong> +91 7461863132 | 094712 75812
+                <strong>Admissions Helpline:</strong> +91 7903132965 | 094712 75812
               </div>
               <div>
                 <strong>Direct Email:</strong>{' '}

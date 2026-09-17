@@ -8,7 +8,7 @@ export const viewport = {
 
 export const metadata = {
   title: "Pragya Heritage International School | Best CBSE School in Purnia, Bihar",
-  description: "Official Website of Pragya Heritage International School (PHIS), Purnia, Bihar. CBSE Affiliation No: 330963, UDISE: 10090417704. Contact: pragyaschool2017@gmail.com | +91 7461863132.",
+  description: "Official Website of Pragya Heritage International School (PHIS), Purnia, Bihar. CBSE Affiliation No: 330963, UDISE: 10090417704. Contact: pragyaschool2017@gmail.com | +91 7903132965.",
   keywords: "Pragya Heritage International School, PHIS Purnia, Best CBSE School in Purnia, Schools in Gulabbagh Purnia, CBSE Affiliation 330963, English Medium School Bihar, pragyaschool2017@gmail.com",
   authors: [{ name: "Pragya Heritage International School" }],
 };
